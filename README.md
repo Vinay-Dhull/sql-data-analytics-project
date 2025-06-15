@@ -30,17 +30,17 @@ report_customers.sql: In-depth customer trends and KPIs
 
 report_products.sql: Product-wise sales, orders, and performance
 
-📁 SQL Files Overview
-Filename	Description
-00_init_database.sql	Database setup and initial load
-01_database_exploration.sql	Schema overview and integrity checks
-02_dimensions_exploration.sql	Dimension tables exploration
-04_measures_exploration.sql	Analysis of key metrics
-06_ranking_analysis.sql	Top-N analysis by sales and quantity
-08_cumulative_analysis.sql	Running totals and trends over time
-10_data_segmentation.sql	Clustering and segment-based analysis
-12_report_customers.sql	Final reporting on customer behavior
-13_report_products.sql	Final reporting on product performance
+| Filename                        | Description                            |
+| ------------------------------- | -------------------------------------- |
+| `00_init_database.sql`          | Database setup and initial load        |
+| `01_database_exploration.sql`   | Schema overview and integrity checks   |
+| `02_dimensions_exploration.sql` | Dimension tables exploration           |
+| `04_measures_exploration.sql`   | Analysis of key metrics                |
+| `06_ranking_analysis.sql`       | Top-N analysis by sales and quantity   |
+| `08_cumulative_analysis.sql`    | Running totals and trends over time    |
+| `10_data_segmentation.sql`      | Clustering and segment-based analysis  |
+| `12_report_customers.sql`       | Final reporting on customer behavior   |
+| `13_report_products.sql`        | Final reporting on product performance |
 
 🧰 Tech Stack
 SQL Server 2022
