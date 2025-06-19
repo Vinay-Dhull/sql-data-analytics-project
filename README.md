@@ -58,3 +58,6 @@ Performed key business explorations:
 - Delivered **actionable business insights** on customers, sales, and products  
 - Built a **scalable and analytical-ready data warehouse**  
 - Demonstrated advanced SQL techniques for segmentation, ranking, and temporal analysis
+
+  
+![eda and analytics](https://github.com/user-attachments/assets/14c35830-face-49ee-9062-9efb6fac0926)
